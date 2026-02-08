@@ -8,7 +8,7 @@ and general [contributing guidelines](https://github.com/TAPSOSS/ContributionGui
 All current contributors are listed both in the sidebar and (optionally) in the [AUTHORS](AUTHORS) file.
 
 ## Licensing (USE IN OTHER PROJECTS)
-Check out the [LICENSE file](LICENSE) to see what LICENSE this project uses and how you're allowed to use it. General rule of thumb is attriution (crediting) is required at a minimum.
+Check out the [LICENSE file](LICENSE) to see what LICENSE this project uses and how you're allowed to use it. General rule of thumb is attribution (crediting) is required at a minimum.
 
 ## Built Instructions (For Devs)
 ---INSERT BUILD INSTRUCTIONS HERE---
