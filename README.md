@@ -2,7 +2,8 @@
 ---INSERT PROJECT DESCRIPTION HERE---
 
 ## Contributing
-For those interested in contributing code/documentation, please check out the [relevant guidelines and requirements](https://github.com/TAPSOSS/ContributionGuidelines/blob/main/CONTRIBUTING.md).
+For those interested in contributing code/documentation, please check the [relevant guidelines and requirements](CONTRIBUTING.md) 
+and general [contributing guidelines](https://github.com/TAPSOSS/ContributionGuidelines/blob/main/CONTRIBUTING.md).
 
 All current contributors are listed both in the sidebar and (optionally) in the [AUTHORS](AUTHORS) file.
 
